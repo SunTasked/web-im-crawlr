@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# database
+database/data/
+database/logs/
+py-scripts/downloaded/
