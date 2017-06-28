@@ -23,7 +23,7 @@ def valid_ext (url):
     ext = url.split(".")[-1].lower()
 
     # Add any new valid extension here.
-    if ext in ["jpg", "jpeg", "png"]:
+    if ext in ["jpg", "jpeg", "png", "webp"]:
         return True
     
     return False
