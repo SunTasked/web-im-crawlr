@@ -104,3 +104,6 @@ ENV/
 database/data/
 database/logs/
 py-scripts/downloaded/
+
+# vagrant
+.vagrant

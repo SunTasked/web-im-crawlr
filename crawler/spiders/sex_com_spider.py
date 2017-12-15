@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, './spiders/py-scripts')
+sys.path.insert(0, './crawler/spiders/py-scripts')
 
 import scrapy
 from scrapy.spiders import CrawlSpider, Rule
